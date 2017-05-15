@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Wewic/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.6.1/58e59bfb3e247097b8122243b3bfe0049c8cfae8/slf4j-simple-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58e59bfb3e247097b8122243b3bfe0049c8cfae8">
+        <dex dex="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/slf4j-simple-1.6.1-90d40c4534615f99b65e889751ea27f7459c94cd.jar" />
+    </item>
+    <item
+        jar="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/classes-323cbc88fd04070234dc743b6c110e43888cc2d6.jar" />
+    </item>
+    <item
+        jar="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/classes-162416384c5764cf4bef80d57ade171c6ea073dd.jar" />
+    </item>
+    <item
+        jar="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8d5892b08aa756406962adffa3b66b46f818ed1c.jar" />
+    </item>
+    <item
+        jar="/Users/Wewic/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/slf4j-api-1.6.1-ce301df6a91e34d3387941f9a03057759eec0c19.jar" />
+    </item>
+    <item
+        jar="/Users/Wewic/.gradle/caches/modules-2/files-2.1/org.osmdroid/osmdroid-android/4.2/f3a0c73a9ed04a5d0959789c53da9f08462bfcc2/osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/osmdroid-android-4.2-656ab1fb8dceb3fc552f720bc2a6c6ff22cbd181.jar" />
+    </item>
+    <item
+        jar="/Users/Wewic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Wewic/Desktop/CPSC 210/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-00f01a711a0865ace26196e7bdfa12441053bfac.jar" />
+    </item>
+
+</items>
